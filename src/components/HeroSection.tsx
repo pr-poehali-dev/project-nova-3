@@ -54,7 +54,7 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/projects/41461925-bb81-48f6-a190-0d5d13409230/bucket/7b88e44c-4c8c-4f73-940f-7d6fbec4832d.jpg"
+                  src="https://cdn.poehali.dev/projects/41461925-bb81-48f6-a190-0d5d13409230/bucket/020ba617-8ffc-43e1-b52a-7a90166b1f39.jpg"
                   alt="Пугасей Кристина Михайловна"
                   className="h-full w-full object-cover"
                 />
