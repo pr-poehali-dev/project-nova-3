@@ -73,27 +73,27 @@ export default function MaterialsSection() {
               </h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  Учитель английского языка с многолетним опытом работы в общеобразовательной школе. 
-                  Специализируюсь на обучении учеников 5–11 классов, подготовке к ОГЭ и ЕГЭ.
+                  Учитель английского языка МАОУ СОШ №28. Работаю с 2010 года — за это время 
+                  накопила большой опыт и выработала собственный творческий подход к преподаванию.
                 </p>
                 <p>
-                  На этом сайте я делюсь авторскими методическими разработками — конспектами уроков, 
-                  рабочими листами, презентациями и тестами, которые помогут сделать обучение английскому 
-                  языку интересным и эффективным.
+                  На уроках использую разнообразные методы и приёмы, чтобы каждый ученик мог 
+                  увлечься языком. Постоянно делюсь опытом с коллегами и публикую только самые 
+                  новые и интересные материалы — чтобы другим педагогам было проще готовиться к урокам.
                 </p>
               </div>
               <div className="mt-8 grid grid-cols-3 gap-6">
                 <div className="text-center">
-                  <p className="text-3xl font-light text-gray-900">66+</p>
-                  <p className="text-sm text-gray-500 mt-1">материалов</p>
+                  <p className="text-3xl font-light text-gray-900">15+</p>
+                  <p className="text-sm text-gray-500 mt-1">лет опыта</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-3xl font-light text-gray-900">5–11</p>
-                  <p className="text-sm text-gray-500 mt-1">классы</p>
+                  <p className="text-3xl font-light text-gray-900">СОШ №28</p>
+                  <p className="text-sm text-gray-500 mt-1">МАОУ</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-3xl font-light text-gray-900">ОГЭ/ЕГЭ</p>
-                  <p className="text-sm text-gray-500 mt-1">подготовка</p>
+                  <p className="text-3xl font-light text-gray-900">с 2010</p>
+                  <p className="text-sm text-gray-500 mt-1">год начала</p>
                 </div>
               </div>
             </div>
@@ -106,8 +106,8 @@ export default function MaterialsSection() {
                 />
               </div>
               <div className="absolute -bottom-4 -left-4 rounded-xl bg-gray-900 px-6 py-4 text-white shadow-xl">
-                <p className="text-sm font-medium">Учитель английского</p>
-                <p className="text-xs text-white/60 mt-0.5">Пугасей К.М.</p>
+                <p className="text-sm font-medium">Творческий учитель</p>
+                <p className="text-xs text-white/60 mt-0.5">МАОУ СОШ №28</p>
               </div>
             </div>
           </div>
